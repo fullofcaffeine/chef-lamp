@@ -1,0 +1,11 @@
+.rvmrc*
+.rbenv-version
+.autotest
+.idea/
+.ruby-version
+data-bag-key
+nodes/
+roles/
+data_bags/
+create_data_bag.rb
+/cookbooks/
