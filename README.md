@@ -3,6 +3,8 @@ chef-lamp
 
 A Bershelf-managed cookbook that creates a fully-featured LAMP box (PHP, nodejs and Python)
 
+Adapted from: https://github.com/r8/vagrant-lamp
+
 Usage
 =====
 
